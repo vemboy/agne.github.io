@@ -1,26 +1,26 @@
 @font-face {
     font-family: "Rockstar";
-    src: url("C:/Users/vem/OneDrive/Desktop/Agne/fonts/Rockstar-ExtraBold.otf");
+    src: url("fonts/Rockstar-ExtraBold.otf");
 }
 
 @font-face {
     font-family: "Archia";
-    src: url("C:/Users/vem/OneDrive/Desktop/Agne/fonts/Archia-Regular.otf");
+    src: url("fonts/Archia-Regular.otf");
 }
 
 @font-face {
     font-family: "Okomito";
-    src: url("C:/Users/vem/OneDrive/Desktop/Agne/fonts/Okomito-Medium.otf");
+    src: url("fonts/Okomito-Medium.otf");
 }
 
 @font-face {
     font-family: "Lack";
-    src: url("C:/Users/vem/OneDrive/Desktop/Agne/fonts/Lack-Regular.otf");
+    src: url("fonts/Lack-Regular.otf");
 }
 
 @font-face {
     font-family: "Kompot";
-    src: url("C:/Users/vem/OneDrive/Desktop/Agne/fonts/KompotSans-ow00A.otf");
+    src: url("fonts/KompotSans-ow00A.otf");
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
