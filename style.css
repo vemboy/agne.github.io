@@ -1,0 +1,175 @@
+@font-face {
+    font-family: "Rockstar";
+    src: url("C:/Users/vem/OneDrive/Desktop/Agne/fonts/Rockstar-ExtraBold.otf");
+}
+
+@font-face {
+    font-family: "Archia";
+    src: url("C:/Users/vem/OneDrive/Desktop/Agne/fonts/Archia-Regular.otf");
+}
+
+@font-face {
+    font-family: "Okomito";
+    src: url("C:/Users/vem/OneDrive/Desktop/Agne/fonts/Okomito-Medium.otf");
+}
+
+@font-face {
+    font-family: "Lack";
+    src: url("C:/Users/vem/OneDrive/Desktop/Agne/fonts/Lack-Regular.otf");
+}
+
+@font-face {
+    font-family: "Kompot";
+    src: url("C:/Users/vem/OneDrive/Desktop/Agne/fonts/KompotSans-ow00A.otf");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
+
+body {
+    background-color: #151515;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.container_1 {
+    margin-top: 20vh;
+    background-color: #151515;
+    width: 50vw;
+    float:  left;
+    height: 110vh;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.container_1_2 {
+    margin-top: 20vh;
+    background-color: #151515;
+    width: 50vw;
+    float:  right;
+    height: 110vh;
+    overflow: hidden;
+    display: inline-block;
+}
+.title {
+    margin-top: 35vh;
+    font-size: 6vw;
+    font-family: "Rockstar";
+    color: black;
+    
+
+
+}
+
+.text {
+    width: 50vw;
+    color: white;
+    font-family: "Okomito";
+    font-size: 1vw;
+    margin-left: 1.5vw;
+    margin-top: 5vh;
+        overflow: hidden;
+
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.image {
+    margin-top: 32.5vh;
+    margin-left: 50vw;
+}
+
+.first_letter {
+    font-family: "Okomito";
+    font-size: 10vw;
+    color:  white;
+    float:  right;
+    overflow: hidden;
+}
+
+.container_2 {
+    width: 30vw;
+    margin-top: 5vh;
+    height: 70vh;
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+
+
+}
+
+.container_3 {
+    width: 70vw;
+    height: 70vh;
+     margin-top: 5vh;
+    display: inline-block;
+    overflow: hidden;
+    float:  right;
+}
+
+.lithuanian {
+    margin-top: 35vh;
+font-family: "Kompot";
+    font-size: 5vw;
+    color:  white;
+    display: inline-block;
+    margin-left: 6vw;
+    padding: 5px;
+    line-height: 5vw;
+}
+
+
+.container_4 {
+    width: 50vw;
+    height: 100vh;
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+
+
+}
+
+.container_5{
+    width: 50vw;
+    height: 100vh;
+    display: inline-block;
+    overflow: hidden;
+    float:  right;
+}
+
+.container_6 {
+        width: 50vw;
+    height: 100vh;
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+}
+
+.container_7 {
+        width: 50vw;
+    height: 100vh;
+    display: inline-block;
+    overflow: hidden;
+    float:  right;
+}
+
+.lithuanian2 {
+        margin-top: 27.5vh;
+font-family: "Kompot";
+    font-size: 5vw;
+    color:  white;
+    display: inline-block;
+    margin-left: 17.5vw;
+        line-height: 5vw;
+}
+
+.container_8 {
+    overflow: hidden;
+    width: 100vw;
+    height: 60vh;
+
+}
