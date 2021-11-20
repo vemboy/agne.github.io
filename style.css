@@ -122,6 +122,17 @@ font-family: "Kompot";
     line-height: 5vw;
 }
 
+.lithuanian3 {
+    margin-top: 17vh;
+font-family: "Kompot";
+    font-size: 5vw;
+    color:  white;
+    display: inline-block;
+    margin-left: 12vw;
+    padding: 5px;
+    line-height: 5vw;
+}
+
 
 .container_4 {
     width: 50vw;
